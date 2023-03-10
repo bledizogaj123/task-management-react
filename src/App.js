@@ -5,7 +5,7 @@ import Board from 'react-trello'
 import axios from 'axios'
 
 const data = require('./data.json')
-const API_ENDPOINT = 'http://board-laravel-app.test/api/task-management';
+const API_ENDPOINT = 'http://task-management-laravel.test/api/task-management';
 const handleDragStart = (cardId, laneId) => {
 }
 

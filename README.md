@@ -1,1 +1,1 @@
-To run the project you can simpy run npm install and npm start.
+To run the project you can simpy run npm install and npm start and also make sure to update the endpoint var so it will be connected to the right endpoints.
