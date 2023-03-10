@@ -1,0 +1,22 @@
+{
+  "lanes": [
+    {
+      "id": "0",
+      "title": "To Do",
+      "style": {"width": 280},
+      "cards": []
+    },
+    {
+      "id": "1",
+      "title": "Processing",
+      "style": {"width": 280},
+      "cards": []
+    },
+    {
+      "id": "2",
+      "title": "Done",
+      "style": {"width": 280},
+      "cards": []
+    }
+  ]
+}
