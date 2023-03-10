@@ -1,0 +1,1 @@
+To run the project you can simpy run npm install and npm start.
